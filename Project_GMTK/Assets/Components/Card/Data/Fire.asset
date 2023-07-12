@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3cec9fbb9cb334caf12c6fe87b3f6c, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  cardName: Fire
+  cardSprite: {fileID: 21300000, guid: 09c64daf998a88e418386b2da1470a43, type: 3}
+  cardDescription: Deals damage over time and cause small suspiscion.
+  hasPermission: 0
+  permission:
+    targetType: 0
+    notAllow: 0
